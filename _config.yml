@@ -1,0 +1,71 @@
+typography_spectrum: 0.48034792467232534
+color:
+  brandColors:
+    - '#180E17'
+    - '#FCFDFF'
+    - '#C0B7A6'
+    - '#CA5C37'
+    - '#045A76'
+  brandStrength: 0.45563388507084757
+  lightness: 0.46329373073579727
+  saturation: 0.9395196280854358
+  rhythmicContrast: 0.5701579441987715
+layout_spectrum: 0.06927534130733866
+analytics:
+  google: UA-77243447-1
+author:
+  name: Alcuin Hacker
+  email: alcuin@alcuinhacker.com
+  url: 'http://alcuinhacker.com'
+name: Alcuin Hacker Consulting
+url: 'https://alcuinhacker.com'
+navigation:
+  - name: About
+    id: 2d23ada5-42eb-46e4-bfd8-5b017342d049
+    type: content
+  - name: Testimonials
+    id: 8b1c9d00-b641-452f-b5aa-3b08aa6b9ad3
+    type: content
+  - name: The Regular Giving Lifecycle Approach
+    id: 967c939d-ef0b-4813-af34-f22c15eaf12b
+    type: content
+title: Alcuin Hacker Consulting
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/382d4a1d-1bce-401e-a266-f7115be3ffe6.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/382d4a1d-1bce-401e-a266-f7115be3ffe6.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: >-
+  If you’d like to know more about how I can help your organisation find lost
+  revenue and better engage with your supporters, get in touch for a chat.
+purpose:
+  - type: contact
+    label: email
+    url: 'mailto:alcuin@alcuinhacker.com'
+  - type: contact
+    label: phone
+    url: 'tel:+61450605719'
+github: true
+logo: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/23971896-5475-452d-9a05-8bd0bf8d71b5.jpg
