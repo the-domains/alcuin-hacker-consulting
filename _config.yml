@@ -19,10 +19,6 @@ author:
   url: 'http://alcuinhacker.com'
 name: Alcuin Hacker Consulting
 url: 'https://alcuinhacker.com'
-navigation:
-  - name: The Regular Giving Lifecycle Approach
-    id: 967c939d-ef0b-4813-af34-f22c15eaf12b
-    type: content
 title: Alcuin Hacker Consulting
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
