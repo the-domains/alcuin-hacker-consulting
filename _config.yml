@@ -20,9 +20,6 @@ author:
 name: Alcuin Hacker Consulting
 url: 'https://alcuinhacker.com'
 navigation:
-  - name: Testimonials
-    id: 8b1c9d00-b641-452f-b5aa-3b08aa6b9ad3
-    type: content
   - name: The Regular Giving Lifecycle Approach
     id: 967c939d-ef0b-4813-af34-f22c15eaf12b
     type: content
