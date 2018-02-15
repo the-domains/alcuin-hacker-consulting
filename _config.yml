@@ -20,9 +20,6 @@ author:
 name: Alcuin Hacker Consulting
 url: 'https://alcuinhacker.com'
 navigation:
-  - name: About
-    id: 2d23ada5-42eb-46e4-bfd8-5b017342d049
-    type: content
   - name: Testimonials
     id: 8b1c9d00-b641-452f-b5aa-3b08aa6b9ad3
     type: content
